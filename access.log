@@ -1,0 +1,35 @@
+Time: 2024-05-20T06:15:57.624Z
+Method: GET
+URL: /api/v1/products?id=2&user=jignesh
+Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.39.0","accept":"*/*","cache-control":"no-cache","postman-token":"076af2f7-c2f8-4548-b37c-b1c86e19e75f","host":"localhost:8082","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"16"}
+Query Params: {"id":"2","user":"jignesh"}
+Time Taken to processed the request : 57/ms
+Status 200 : Response has been sent to client
+-----------------------
+Time: 2024-05-20T06:16:01.464Z
+Method: GET
+URL: /api/v1/products?id=2&user=jignesh
+Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.39.0","accept":"*/*","cache-control":"no-cache","postman-token":"e2ebec3e-1093-4759-b18b-4e3eee15fe6d","host":"localhost:8082","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"16"}
+Query Params: {"id":"2","user":"jignesh"}
+Time Taken to processed the request : 1/ms
+Status 200 : Response has been sent to client
+-----------------------
+Time: 2024-05-20T06:16:41.427Z
+Method: GET
+URL: /api/v1/products?id=2&user=jignesh
+Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.39.0","accept":"*/*","cache-control":"no-cache","postman-token":"789c2955-69c8-4848-8836-24210ec4dc41","host":"localhost:8082","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"16"}
+Query Params: {"id":"2","user":"jignesh"}
+Time Taken to processed the request : 41/ms
+Status 200 : Response has been sent to client
+-----------------------
+Error : 404 : Wrong URL route has been called ! 
+Time: Mon May 20 2024 11:47:29 GMT+0530 (India Standard Time) 
+------------------------------- 
+Time: 2024-05-20T06:17:58.633Z
+Method: GET
+URL: /api/v1/products?id=2&user=jignesh
+Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.39.0","accept":"*/*","cache-control":"no-cache","postman-token":"25cab036-1b0f-47f6-940b-856d69311277","host":"localhost:8082","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"16"}
+Query Params: {"id":"2","user":"jignesh"}
+Time Taken to processed the request : 58/ms
+Status 200 : Response has been sent to client
+-----------------------
